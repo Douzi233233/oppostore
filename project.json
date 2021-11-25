@@ -1,0 +1,41 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "CBB1850C-318",
+    "build_number": 318,
+    "build_time": 1637555374511,
+    "release": false
+  },
+  "encryptLevel": 2,
+  "useFeatures": [],
+  "icon": "icons/logo_icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": true,
+    "splashLayoutXml": "splash.xml",
+    "splashText": "",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "欢太任务小铺",
+  "optimization": {
+    "obfuscateComponents": true,
+    "removeAccessibilityService": true,
+    "removeOpenCv": true,
+    "unusedResources": false
+  },
+  "packageName": "com.httask.sign",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "scripts": {},
+  "signingConfig": {
+    "alias": "xyh",
+    "keystore": "/storage/emulated/0/脚本/autojspro(1).jks",
+    "uuid": "7c55f2a0-c77c-4778-8337-44d4f8dce419"
+  },
+  "versionCode": 39,
+  "versionName": "1.5.0.0.13"
+}
