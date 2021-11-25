@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<vertical>
-	<frame gravity="center" height="match_parent" width="match_parent" background="#ffffff">
-		<img src="file://./start-up.jpg" scaleType="fitCenter" />
-	</frame>
-</vertical>
